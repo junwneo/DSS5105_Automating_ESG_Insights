@@ -14,6 +14,11 @@ To get a quick overview of how the ESG Dashboard works, check out the tutorial v
 
 > _This video walks you through the dashboard’s main features and how to get started using it._
 
+📍 _If the link above doesn't work, you can copy and paste the URL manually into your browser:_
+
+```arduino
+https://youtu.be/0GBvJovISb4
+```
 ---
 
 ### ✨ Features
