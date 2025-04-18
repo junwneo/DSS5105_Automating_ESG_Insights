@@ -4,6 +4,18 @@
 
 The **AI-Powered ESG Dashboard** is an interactive web application designed to analyze and visualize Environmental, Social, and Governance (ESG) performance across companies. It combines real-time data processing, machine learning predictions, and advanced data visualization to provide insights into corporate sustainability, trends, and their financial impact.
 
+---
+
+## 🎥 Website Walkthrough
+
+To get a quick overview of how the ESG Dashboard works, check out the tutorial video below:
+
+➡️ [📽️ Watch the Tutorial on YouTube](https://youtu.be/0GBvJovISb4)
+
+> _This video walks you through the dashboard’s main features and how to get started using it._
+
+---
+
 ### ✨ Features
 
 - View and compare ESG scores across top-performing companies.
